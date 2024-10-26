@@ -1,6 +1,6 @@
 # Intro Design for Interaction - IXD5106
 
-![Web Development](/images/figma.png)
+![Figma](/images/figma.png)
 
 This Repo is for my Intro Design for Interaction - IXD5106 Assignment.
 
